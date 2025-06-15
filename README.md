@@ -1,8 +1,8 @@
 # 🤙 Hi, I'm Brennan!
 
-I'm currently a Unity Developer at the Cal Poly California Cybersecurity Institute and an upcoming Software Engineering Intern at Apple.
+I'm currently a Software Engineering Intern at Apple and a Unity Developer at the California Cybersecurity Institute.
 
-My passion lies at the intersection of engineering and art, with interests in computer graphics, animation and simulation, game development, and technical art. I'm always taking on new innovative projects that blend creativity and technology. Take a look at my GitHub to see what I've been up to!
+My passion lies at the intersection of engineering and art, with interests in computer graphics, computer animation and simulation, computer vision, game development, and technical art. I'm taking on roles and working on innovative projects that blend creativity and technology. Take a look at my GitHub to see what I've been up to!
 
 I'm also pursuing a minor in Computing for Interactive Arts, a cross-disciplinary minor combining Computer Science with Art and Design. Visit my [Instagram](https://www.instagram.com/bcandruss/) to see some of my artwork and animations!
 

@@ -4,7 +4,7 @@ I'm currently a Unity Developer at the California Cybersecurity Institute and pr
 
 My passion lies at the intersection of science, mathematics, and art. I'm fascinated with everything computer graphics, computer animation and simulation, parallel computing, and machine learning. I'm taking on roles and working on innovative projects that blend creativity and technology. Take a look at my GitHub to see what I've been up to!
 
-I'm also pursuing a minor in Computing for Interactive Arts, a cross-disciplinary minor combining Computer Science with Art and Design. Visit my [Instagram](https://www.instagram.com/bcandruss/) to see some of my artwork and animations!
+I'm also pursuing a minor in Mathematics and a minor in Computing for Interactive Arts, a cross-disciplinary minor combining Computer Science with Art and Design. Visit my [Instagram](https://www.instagram.com/bcandruss/) to see some of my artwork and animations!
 
 #
 
